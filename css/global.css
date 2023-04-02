@@ -1,0 +1,21 @@
+#color {
+    background-color: black;
+}
+
+#main-page {
+    display: flex;
+    justify-content: center;
+    height: 30vh;
+    width: 100vw;
+}
+
+#header {
+    color: aliceblue;
+}
+
+#caixa {
+    display: flex;
+    justify-content: center;
+    height: 5vh;
+    width: 100vw;
+}
